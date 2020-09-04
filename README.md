@@ -1,4 +1,4 @@
-# htmlBuilder
+# html_builder
 program that when run, takes in user input and then creates an html file with the provided features and design
 The user will have to use one of the two input modes, the first is called wizard mode where the user enters the 
 content of the paragraphs that the website will have and the style, the user can also decide to input images of their choice
